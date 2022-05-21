@@ -1,0 +1,18 @@
+.main-table-container {
+  justify-content: center;
+}
+
+.product-detail__cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.bitcoin-img-container {
+  background: url('../assets/img/bitcoinbaby2x.jpg') center/cover no-repeat;
+}
+
+.plans-container__slider{
+  justify-content: center;
+}
