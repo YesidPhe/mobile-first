@@ -123,7 +123,7 @@ main {
   height: 200px;
   margin: 0 auto;
   margin-bottom: 50px;
-  background: url('../assets/img/bitcoin.svg') center/cover no-repeat;
+  background: url('../assets/img/Bitcoin.svg') center/cover no-repeat;
 }
 
 .main-exchange-container__title h2 {
@@ -482,7 +482,7 @@ main {
   padding: 8px;
   top: calc(0% - 16px);
   left: calc(50% - 50px);
-  font-size: 1.2rem;
+  font-size: 1.2rem;;
   background-color: var(--bitcoin-orange);
   border-radius: 8px;
   color: var(--just-white);
@@ -550,7 +550,7 @@ main {
   top: calc(0% - 16px);
   left: calc(50% - 50px);
   font-size: 1.2rem;
-  background-color: var(--gray);
+  background-color: #757575;
   border-radius: 8px;
   color: var(--just-white);
 }
